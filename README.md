@@ -43,7 +43,7 @@ El sitio está compuesto por tres páginas principales:
 ## 🚀 Publicación en GitHub Pages
 
 El sitio puede visitarse en el siguiente enlace:  
-👉 [Ver sitio en GitHub Pages](https://TU_USUARIO.github.io/sailor-moon-web/)
+👉 [Ver sitio en GitHub Pages](https://euge-90.github.io/mi-sitio-web/)
 
 ---
 
